@@ -1,4 +1,4 @@
-package com.collaborator.management.authentication.service;
+package com.collaborator.management.authentication;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
